@@ -1,2 +1,4 @@
 bob
 jim 
+liza
+róka
